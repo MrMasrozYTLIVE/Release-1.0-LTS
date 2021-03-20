@@ -20,7 +20,7 @@ Release-1.0-LTS is a modification of the Minecraft Coder Pack to create a "Long 
 
 **MCP**
 
-* Automatically download Minecraft .jar's from my download links
+* Automatically download Minecraft .jar's from official download links
 * Include an auto patching bat to create patched client and server jars
 * Fix MCP Updater
 
