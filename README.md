@@ -1,6 +1,6 @@
-# 1.7.3-LTS
+# Release-1.0-LTS
 
-1.7.3-LTS is a modification of the Minecraft Coder Pack to create a "Long Term Service" patch for Minecraft Beta 1.7.3
+Release-1.0-LTS is a modification of the Minecraft Coder Pack to create a "Long Term Service" patch for Minecraft Release 1.0
 
 # Features
 
