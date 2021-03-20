@@ -16,10 +16,7 @@
 
 **Minecraft**
 
-* Fix links for Minecraft's authentication server
-* Fix links for viewing skins
-* Fix minor bugs
-	- Slab Crash (44:4)
+* None?..
 
 **MCP**
 
@@ -29,13 +26,13 @@
 
 # Licensing
 
-MCP Version 4.3 __did not__ ship with a license, therefore it is allowed to be reuploaded and modified here.
+MCP Version 5.0 __did not__ ship with a license, therefore it is allowed to be reuploaded and modified here.
 
 With that in mind, all credit towards MCP goes to the original creators. Read docs/README-MCP.txt for credits.
 
 # Contributing
 
-If you enounter any issues or bugs with 1.7.3-LTS, please create an issue and explain it in detail!
+If you enounter any issues or bugs with Release-1.0-LTS, please create an issue and explain it in detail!
 
 If you want to contribute, please keep pull requests about one topic instead of one huge pull request.
 
