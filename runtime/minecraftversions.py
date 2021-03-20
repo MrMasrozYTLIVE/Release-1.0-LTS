@@ -296,8 +296,17 @@ versions = {
         "b1.9-pre5": {
             "url": "http://assets.minecraft.net/1_9-pre5/minecraft_server.jar"
         },
+<<<<<<< Updated upstream
         "b1.9-pre6": {
             "url": "http://assets.minecraft.net/1_9-pre6/minecraft_server.jar"
         }
+=======
+        "1.0.0": {
+            "url": "http://files.pymcl.net/server/vanilla/bin/Release%201.0.0.jar"
+        },
+        "1.1": {
+            "url": "http://files.pymcl.net/server/vanilla/bin/Release%201.1.jar"
+        },
+>>>>>>> Stashed changes
     }
 }
